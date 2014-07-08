@@ -1,11 +1,8 @@
 {
-  "name": "vkg-node",
+  "name": "vkg",
   "version": "0.0.0",
   "description": "The vim package manager",
   "main": "index.coffee",
-  "scripts": {
-    "test": "grunt nodeunit"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pepegar/vkg.git"
