@@ -4,8 +4,8 @@ vkg
 The package manager for Vim
 ---------------------------
 
-This is vkg, the package manager for Vim.  Currently *vkg* relies on the data from the 
-folks at [Vimawesome][vimawesome].
+This is vkg (pronounced vackage), the package manager for Vim.  Currently *vkg* relies on the data from the 
+folks at [Vimawesome](http://vimawesome.com).
 
 Installation
 ------------
@@ -22,7 +22,10 @@ vkg install gundo
 
 TODO
 ----
+* LOTS OF THINGS
 * Option for customized config file (~/.vkgrc)
 * Moar commands
 
-[vimawesome] http://vimawesome.com
+Contributing
+------------
+Yes, please

@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pepegar/vackage.git"
+    "url": "https://github.com/pepegar/vkg.git"
   },
   "keywords": [
-    "vackage",
+    "vkg",
     "vim",
     "package",
     "plugins"
@@ -25,10 +25,10 @@
   "author": "Pepe García",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pepegar/vackage/issues"
+    "url": "https://github.com/pepegar/vkg/issues"
   },
   "bin": {
     "vkg": "index.coffee"
   },
-  "homepage": "https://github.com/pepegar/vackage"
+  "homepage": "https://github.com/pepegar/vkg"
 }
