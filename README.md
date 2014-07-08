@@ -10,7 +10,7 @@ folks at [Vimawesome](http://vimawesome.com).
 Installation
 ------------
 ```
-npm install vkg
+npm install -g vkg
 ```
 
 Usage
