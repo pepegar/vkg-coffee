@@ -4,10 +4,13 @@ vkg
 The package manager for Vim
 ---------------------------
 
-This is *vkg* (pronounced vackage), the package manager for Vim.  Currently 
-*vkg* relies on the data from the folks at [Vimawesome](http://vimawesome.com).
+This is *vkg* (pronounced vackage), the package manager for Vim.  *vkg* relies
+on the data from the folks at [Vimawesome](http://vimawesome.com).
 
-*vkg* needs [Coffeescript](http://coffeescript.org) to be installed globally in the system, and the 
+*vkg* works alongside [Pathogen](https://github.com/tpope/vim-pathogen), and presumes
+that your infected dir is ~/.vim/bundle.
+
+*vkg* needs [Coffeescript](http://coffeescript.org) to be installed globally in the system, and the
 ```coffee``` binary to be accesible in the path.
 
 Installation
@@ -28,6 +31,7 @@ TODO
 * LOTS OF THINGS
 * Option for customized config file (~/.vkgrc)
 * Moar commands
+* tests
 
 Contributing
 ------------
