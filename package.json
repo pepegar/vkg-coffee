@@ -1,0 +1,34 @@
+{
+  "name": "vkg-node",
+  "version": "0.0.0",
+  "description": "The vim package manager",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepegar/vackage.git"
+  },
+  "keywords": [
+    "vackage",
+    "vim",
+    "package",
+    "plugins"
+  ],
+  "dependencies": {
+    "nomnom": "~1.8.0",
+    "request": "~2.37",
+    "coffee-script": "~1.7",
+    "colors": "~0.6"
+  },
+  "author": "Pepe García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pepegar/vackage/issues"
+  },
+  "bin": {
+    "vkg": "index.coffee"
+  },
+  "homepage": "https://github.com/pepegar/vackage"
+}
