@@ -9,7 +9,7 @@ handleRequest = (error, response, body) ->
     parsedResponse = JSON.parse body
 
     for plugin in parsedResponse.plugins
-      console.log "* #{plugin.normalized_name.green} - #{plugin.short_desc}"
+      console.log "* #{plugin.slug.green} - #{plugin.short_desc}"
   else
     console.log error
 
