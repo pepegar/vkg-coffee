@@ -1,6 +1,8 @@
 vkg
 ===
 
+_This is a proof of concept, I will be releasing a stable and better application soon._
+
 The package manager for Vim
 ---------------------------
 
